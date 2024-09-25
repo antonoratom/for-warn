@@ -1,3 +1,5 @@
+console.log("with code on the beginning");
+
 // This script will display a reminder message on the website
 document.addEventListener("DOMContentLoaded", (event) => {
   // Create a div element for the reminder message
