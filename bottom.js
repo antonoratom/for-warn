@@ -1,3 +1,4 @@
+console.log("beginning code");
 // This script will display a reminder message at the bottom of the website when the user scrolls to the bottom
 document.addEventListener("DOMContentLoaded", (event) => {
   // Create a div element for the reminder message
